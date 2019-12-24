@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Leadership Toolkit
-nav_order: 4
+parent: Spark Cell 101
+nav_order: 1
 ---
 
 # Squadron Leadership Toolkit
@@ -14,7 +15,7 @@ _"Success no longer goes to the country that develops a new fighting technology 
 2. Innovation is key to reform & lethality; two of the three NDS 2018 lines of effort.
 3. The Air Force is trying to **reinvigorate your squadron.**
 
-## What does SPARK offer?   
+## What does SPARK offer?
 
 1. You will fund projects through non-traditional contracts you otherwise cannot access.
 2. Your Airmen will directly network with senior AF leadership.
@@ -41,7 +42,7 @@ _"Success no longer goes to the country that develops a new fighting technology 
 *   **AFWERX:** Air Force Innovation Office, reports to VCSAF
 *   **SPARK:** A network of 50+ base-level AFWERX hubs.
 *   **SPARK Tank:** Yearly competition featuring SPARK-curated ideas, pitched to senior military and civilian leadership
-*   **SIF:** A CSAF Squadron Revitalization program to: increase readiness, reduce cost, return time back to Airmen, and enhance the lethality of the force. 
+*   **SIF:** A CSAF Squadron Revitalization program to: increase readiness, reduce cost, return time back to Airmen, and enhance the lethality of the force.
 *   **SBIR:** Partnerships with small businesses & startups.  Phase 1: What’s the problem?  Phase II: Can we fix the problem?  Phase III: Do you want us to keep fixing the problem?
 *   **CSO:** Open call for innovative commercial solutions. With a Pitch Day, can have same-day payment, one page contracts for commercial products.
 *   **Whitespace:** A percentage of time given to Airmen to pursue pet projects & innovation.  Adopted by industry leaders Google (20%), 3M (15%) and others.
