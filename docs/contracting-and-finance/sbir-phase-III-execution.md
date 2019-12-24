@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Executing SBIR Phase III Contracts
-nav_order: 3
+parent: Contracting and Finance
+nav_order: 2
 ---
 
 # Executing SBIR Phase III Contracts
