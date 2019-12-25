@@ -8,7 +8,7 @@ nav_order: 99
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
 The goal of the open-source
-[AFWERX Guides project](https://raw.githubusercontent.com/infinity-spark-jbmdl/afwerx-guides/master/docs/contributing.md)
+[AFWERX Guides](https://raw.githubusercontent.com/infinity-spark-jbmdl/afwerx-guides/master/docs/contributing.md)
 project is for members of the community to contribute and improve the guides.
 
 The project is beginner-friendly and we hope many people are able to make their
