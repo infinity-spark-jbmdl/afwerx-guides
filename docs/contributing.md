@@ -42,6 +42,7 @@ problem and include additional details to help maintainers of the project fix it
 If you see a way to improve a guide or an error and have a suggestion for how to fix it, you can submit a
 [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 which will tell the maintainers of the project you have a suggested improvement.
+
 Each page in the site has a link which will start the process of
 [creating a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 to edit that page.
