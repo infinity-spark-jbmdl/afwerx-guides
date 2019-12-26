@@ -14,11 +14,11 @@ project is for members of the community to contribute and improve the guides.
 The project is beginner-friendly and we hope many people are able to make their
 first open-source contribution through this project.
 
-You can contribute to the guides in three ways:
+You can help improve the guides in three ways:
 
-*  Report a bug (error)
-*  Submit a suggested improvement
-*  Develop a guide on a new topic
+*  [Report a bug (error)](#report-a-bug-error)
+*  [Submit a suggested improvement](#submit-an-edit)
+*  [Develop a guide on a new topic](#develop-a-new-guide)
 
 You need a [Github account](https://github.com/join) to contribute, but you can
 do everything entirely through your web browser.
@@ -27,6 +27,16 @@ The guides are written using [Markdown](https://daringfireball.net/projects/mark
 Markdown is a way to style text on the web. If you are not familiar with
 Markdown, check out this short article, [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 (3 min read).
+
+#### Thank you to the contributors of the AFWERX Guides!
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>
 
 ## Report a Bug (Error)
 
@@ -37,7 +47,7 @@ add a comment to the existing issue instead of opening a new one. If not, create
 [new issue](https://github.com/infinity-spark-jbmdl/afwerx-guides/issues/new). Explain the
 problem and include additional details to help maintainers of the project fix it.
 
-## Suggest an Edit
+## Submit an Edit
 
 If you see a way to improve a guide or an error and have a suggestion for how to fix it, you can submit a
 [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
