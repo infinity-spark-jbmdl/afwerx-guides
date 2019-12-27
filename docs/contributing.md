@@ -75,7 +75,7 @@ as "raw" you will see them written in Markdown.
 Here are the steps to create a new guide:
 
 1. Write the guide in Google Docs
-1. [Convert to Markdown](https://www.bettertechtips.com/how-to/convert-google-doc-to-markdown/)
+1. [Convert your Google Doc to Markdown](http://iainbroome.com/how-to-convert-a-google-doc-to-markdown-or-html/)
 1. [Create a new file](https://help.github.com/en/github/managing-files-in-a-repository/creating-new-files) in the [docs folder](https://github.com/infinity-spark-jbmdl/afwerx-guides/tree/master/docs).
 1. Paste your Markdown text into the new file
 1. Add Jekyll [front matter](https://jekyllrb.com/docs/front-matter/) to the top of
