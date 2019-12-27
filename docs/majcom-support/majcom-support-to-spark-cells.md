@@ -3,43 +3,43 @@
  title: MAJCOM Support to Spark Cells
  parent: MAJCOM Support
  nav_order: 1
- ---
+---
 # Fueling MAJCOM & Wing Spark Cell Collaboration
 
-## Overview (What): 
+## Overview (What):
 
-Develop, communicate, enable and oversee MAJCOM systems, technology, and innovation development strategies, roadmaps, guidance, standards, architectures, and projects. 
+Develop, communicate, enable and oversee MAJCOM systems, technology, and innovation development strategies, roadmaps, guidance, standards, architectures, and projects.
 
-Ensure MAJCOM: 
+Ensure MAJCOM:
 
 * Enables innovation at tactical, operational and strategic levels.
 * Has effective Systems & Technology (S&T / AFI 61-101) innovation development processes and methods.
-* Has effective systems and technologies to support MAJCOM missions. 
-* Has effective processes to develop, field, and sustain systems and technologies through routine innovation development activities. 
-* Has systems that are interoperable with the Joint Force (special operations and conventional) and other governmental and partner nation forces. 
-* Develops proficient systems, technology and innovation experts. 
+* Has effective systems and technologies to support MAJCOM missions.
+* Has effective processes to develop, field, and sustain systems and technologies through routine innovation development activities.
+* Has systems that are interoperable with the Joint Force (special operations and conventional) and other governmental and partner nation forces.
+* Develops proficient systems, technology and innovation experts.
 
-## Objectives (Why):  
+## Objectives (Why):
 
-*   Addresses the missing MAJCOM <> Wing Spark Cell communication structure
+*   Addresses the missing MAJCOM / Wing Spark Cell communication structure
 *   Ensures MAJCOM delivers value to Wing Spark Cells
 *   Provides a bridge to Program of Record with the intention of delivering a fielded and sustained capability
 *   Enables pathway to the larger Requirements Generation and POM process to field and scale solutions
-*   Facilitate collaboration within MAJCOM innovation ecosystem. 
+*   Facilitate collaboration within MAJCOM innovation ecosystem.
 
 ______________________________________________________________________
 
 ## How to Guide:
 
-### Stakeholders (Who): 
+### Stakeholders (Who):
 
 1. Spark Cell Lead
 2. Intrapreneur
 3. MAJCOM Functional (may be multiple touchpoints)
 4. Numbered Air Force?
-5. Wing Commander  
+5. Wing Commander
 
-### Roles and Responsibilities: 
+### Roles and Responsibilities:
 
 1. Collect, Vet, Prioritize and Select Ideas
 1. Develop a relationship between the MAJCOM and Wing Spark Cells
