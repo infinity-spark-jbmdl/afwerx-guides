@@ -23,12 +23,12 @@ nav_order: 1
         *   Companies may receive additional funding during the course of phase 2 to perform additional work and scale their solutions.
     *   Phase 3: Streamlined procurement – The solution developed in phase 1 and/or 2 may now be purchased sole source by any federal agency. All funds must come from the purchasing organization (i.e. squadron, wing, program office, etc.).
         *   Can use any money type and any contract type – talk to your local contracting or finance office for more information about how to purchase out of phase 3.
+*    There are currently 3 SBIR application cycles per year. 
 
 ## Why:
 
 *   Airmen don’t always have enough time, expertise, or discretionary money to accomplish and new innovative things.
 *   SBIR can provide quicker solutions and higher quality products to Air Force problems.
-    *   Three application cycles per year
 
 ## How do I get involved?
 
