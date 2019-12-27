@@ -75,10 +75,11 @@ as "raw" you will see them written in Markdown.
 Here are the steps to create a new guide:
 
 1. Write the guide in Google Docs
+    * Must use appropriate heading styles for the conversion software to work properly, e.g. Format -> Paragraph Styles -> Heading 1
 1. [Convert your Google Doc to Markdown](http://iainbroome.com/how-to-convert-a-google-doc-to-markdown-or-html/)
-1. [Create a new file](https://help.github.com/en/github/managing-files-in-a-repository/creating-new-files) in the [docs folder](https://github.com/infinity-spark-jbmdl/afwerx-guides/tree/master/docs).
+1. [Create a new file](https://help.github.com/en/github/managing-files-in-a-repository/creating-new-files) in the [docs folder](https://github.com/infinity-spark-jbmdl/afwerx-guides/tree/master/docs). Add `.md` file extension for Markdown  
 1. Paste your Markdown text into the new file
-1. Add Jekyll [front matter](https://jekyllrb.com/docs/front-matter/) to the top of
+1. OPTIONAL:  Add Jekyll [front matter](https://jekyllrb.com/docs/front-matter/) to the top of
 the guide for title and navigation. For example:
     ```
     ---
@@ -91,4 +92,4 @@ the guide for title and navigation. For example:
 
     This is how to...
     ```
-1. Submit change as a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+1. Submit change as a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).  Click the big green `propose new file` button, review changes, then click `create pull request` button.
