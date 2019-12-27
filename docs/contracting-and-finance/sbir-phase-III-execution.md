@@ -49,7 +49,7 @@ End users start the acquisition process by:
 
 *   Securing non-SBIR funding
 *   Defining the requirement (SOO/SOW)  (start with SBIR II SOW)
-*   Providing Requirements Package to the Contracting Officer items include:
+*   Providing Requirements Package to the Contracting Officer which may include:
     *   Period of Performance
     *   Type of Government Funds
     *   CDRLs
