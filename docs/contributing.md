@@ -12,7 +12,7 @@ The goal of the open-source
 project is for members of the community to contribute and improve the guides.
 
 The project is beginner-friendly and we hope many people are able to make their
-first open-source contribution through this project.
+first [open-source contribution](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) through this project.
 
 You can help improve the guides in three ways:
 
