@@ -15,7 +15,7 @@ We've established a set of **community-developed guides** to share knowledge acr
 - Can we really *contract directly* with a company who has completed a SBIR project?
 - How can I have companies *pitch us* their innovative, off-the-shelf products to solve my unit's biggest challenges?
 
-These guides will provide **step-by-step instructions, best practices, and tips** created by innovators from across the AFWERX community.
+These guides provide **step-by-step instructions, best practices, and tips** created by innovators from across the AFWERX community.
 
 These people have **paved the way** and are interested in **sharing their experience**.
 
@@ -32,7 +32,7 @@ The goal of the open-source [AFWERX Guides project](https://github.com/infinity-
 
 The project is **beginner-friendly** and we hope many people are able to make their **first open-source contribution** through this project.
 
-Check out Contributing to the Guides to see how!
+Check out Contributing to the Guides to see how.
 
 <span class="fs-5">
 [Start Contributing!](docs/contributing.html){: .btn .btn-blue }
