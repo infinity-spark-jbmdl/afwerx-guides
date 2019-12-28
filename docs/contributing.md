@@ -18,7 +18,7 @@ You can help improve the guides in three ways:
 
 *  [Report a bug (error)](#report-a-bug-error)
 *  [Submit a suggested improvement](#submit-an-edit)
-*  [Develop a guide on a new topic](#develop-a-new-guide)
+*  [Develop a guide on a new topic](#develop-a-guide-on-a-new-topic)
 
 You need a [Github account](https://github.com/join) to contribute, but you can
 do everything entirely through your web browser.
@@ -62,7 +62,7 @@ to edit that page of the website.
 Once you submit the pull request, the maintainers will review, edit (if needed),
 and then push the change to the website.
 
-## Develop a New Guide
+## Develop a guide on a new topic
 
 If you would like to develop a new guide, first submit your suggestion as a [new
 issue](https://github.com/infinity-spark-jbmdl/afwerx-guides/issues/new). The project
