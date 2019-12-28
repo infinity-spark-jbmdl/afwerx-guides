@@ -59,6 +59,15 @@ Each page in the site has a `pull request` link in the footer or sidebar which w
 [creating a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 to edit that page of the website.
 
+### Start pull request from sidebar/footer:
+<a href="https://gyazo.com/403a68ccd5c4e7f2df9e985984e87088"><img src="https://i.gyazo.com/403a68ccd5c4e7f2df9e985984e87088.gif" alt="Image from Gyazo" width="500"/></a>
+
+### Make edits & submit commit:
+<a href="https://gyazo.com/6466740705acae29ccbb6b6e10f8532a"><img src="https://i.gyazo.com/6466740705acae29ccbb6b6e10f8532a.gif" alt="Image from Gyazo" width="500"/></a>
+
+### Create pull request:
+<a href="https://gyazo.com/2528d55c661107cc56ef18c3514d8b43"><img src="https://i.gyazo.com/2528d55c661107cc56ef18c3514d8b43.gif" alt="Image from Gyazo" width="500"/></a>
+
 Once you submit the pull request, the maintainers will review, edit (if needed),
 and then push the change to the website.
 
