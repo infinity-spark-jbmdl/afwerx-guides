@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# How can you find tips and best practices from across the AFWERX community?
+# Find tips and best practices from across the AFWERX community
 You've heard about innovation efforts across the Air Force and wonder how to actually implement them at your base.  However, it seems like **each base is starting from scratch**.
 
 We've established a set of **community-developed guides** to share knowledge across the [AFWERX](https://www.afwerx.af.mil/) community.
