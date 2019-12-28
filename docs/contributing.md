@@ -8,11 +8,11 @@ nav_order: 99
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
 The goal of the open-source
-[AFWERX Guides](https://github.com/infinity-spark-jbmdl/afwerx-guides)
-project is for members of the community to contribute and improve the guides.
+[AFWERX Guides project](https://github.com/infinity-spark-jbmdl/afwerx-guides)
+is for members of the community to contribute and improve the guides.
 
 The project is beginner-friendly and we hope many people are able to make their
-first [open-source contribution](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) through this project.
+first open-source contribution through this project.
 
 You can help improve the guides in three ways:
 
