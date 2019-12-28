@@ -60,7 +60,7 @@ Each page in the site has a `pull request` link in the footer or sidebar which w
 to edit that page of the website.
 
 ### Start pull request from sidebar or footer:
-<a href="https://gyazo.com/b53fe10a5190504e8c69077efd36f8ce"><img src="https://i.gyazo.com/b53fe10a5190504e8c69077efd36f8ce.gif" alt="Image from Gyazo" width="500"/></a>
+<a href="https://gyazo.com/942758de9e9640da7894cf8fedbb0644"><img src="https://i.gyazo.com/942758de9e9640da7894cf8fedbb0644.gif" alt="Image from Gyazo" width="500"/></a>
 
 ### Make edits & submit commit:
 <a href="https://gyazo.com/6466740705acae29ccbb6b6e10f8532a"><img src="https://i.gyazo.com/6466740705acae29ccbb6b6e10f8532a.gif" alt="Image from Gyazo" width="500"/></a>
