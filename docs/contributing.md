@@ -28,7 +28,7 @@ Markdown is a way to style text on the web. If you are not familiar with
 Markdown, check out this short article, [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 (3 min read).
 
-#### Thank you to the contributors of the AFWERX Guides on GitHub!
+#### Thank you to our GitHub contributors...we're always looking for more!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
