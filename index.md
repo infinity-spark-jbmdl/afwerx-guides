@@ -24,6 +24,7 @@ Check out the various topics in the menu or get started with Spark Cell 101.
 <span class="fs-5">
 [Get Started!](docs/spark-cell-101/){: .btn .btn-blue }
 </span>
+<br/>
 
 ## Interested in contributing to the guides?
 If you have experience or knowledge to share with the community, we're interesting in **adding you as a contributor** to the project.
@@ -37,6 +38,7 @@ Check out Contributing to the Guides to see how.
 <span class="fs-5">
 [Start Contributing!](docs/contributing.html){: .btn .btn-blue }
 </span>
+<br/>
 
 #### Thank you to our GitHub contributors...we're always looking for more!
 <ul class="list-style-none">
