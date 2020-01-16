@@ -22,15 +22,15 @@ Collide Airmen and their compelling problem statements to best in class partners
 
 ## How to Guide:
 
-#### Stakeholders (Who):
+### Stakeholders (Who):
 
 Spark Cells, Airmen, Innovation Champions
 
-#### Resources (Time/Money):
+### Resources (Time/Money):
 
 Spark Cell time to build event; should be no cost by utilizing wing resources
 
-#### Execution Plan/Timeline (How):
+### Execution Plan/Timeline (How):
 
 * 2 month planning timeline
 
