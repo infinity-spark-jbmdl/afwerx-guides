@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: How to Get to Yes Without Going to Jail
 parent: Contracting and Finance
