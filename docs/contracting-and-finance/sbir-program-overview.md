@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SBIR Program
+title: SBIR Program Overview
 parent: Contracting and Finance
 nav_order: 2
 ---
