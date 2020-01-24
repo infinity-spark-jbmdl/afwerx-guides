@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Developing a Communication Plan for Innovation Efforts
+title: Developing a Comm Plan for Innovation Efforts
 parent: Public Affairs
 nav_order: 2
 ---
