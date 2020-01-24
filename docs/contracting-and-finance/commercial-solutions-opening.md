@@ -35,12 +35,12 @@ Partner with your contracting office. Take your problem statement and mission de
 
 ## Supporting Documentation (need links)
 
-CSO Talking Paper
-Problem Statement Example - AOI 001 - JBMDL 87th Air Base Wing
-CSO Policy Memo 18-C-03
-Approval of Unusual Contract Financing for CSOs
-AFPD 1-Page Contract Deviation
-JB MDL CSO Lessons Learned 20190710 (Crosstalk)
+* CSO Talking Paper
+* Problem Statement Example - AOI 001 - JBMDL 87th Air Base Wing
+* CSO Policy Memo 18-C-03
+* Approval of Unusual Contract Financing for CSOs
+* AFPD 1-Page Contract Deviation
+* JB MDL CSO Lessons Learned 20190710 (Crosstalk)
 
 ## Resources
 
