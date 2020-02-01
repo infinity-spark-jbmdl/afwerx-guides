@@ -71,3 +71,9 @@ At the Joint Base MDL Pitch Day on June 10, 2019, the 87th Contracting Squadron 
 Podcast: In Spring 2019, the 87th Contracting Squadron at Joint Base McGuire-Dix-Lakehurst took on Air Force Leadership’s innovation challenge to “Think Big, Start Small, and Scale Fast” by hosting the first-ever base-level Pitch Day event using a Commercial Solutions Opening. In this episode, 87th Contracting Squadron Commander Lt. Col. Clark leads a discussion with the Contracting Officer and Contract Specialist that executed the effort, Tech. Sgt. Dustin Golden and Maggie Falkner.
 
 [https://www.dvidshub.net/audio/60911/contracting-experience-episode-19-jb-mdl-commercial-solutions-opening](https://www.dvidshub.net/audio/60911/contracting-experience-episode-19-jb-mdl-commercial-solutions-opening)
+
+**Fast money: MacDill awards small businesses for innovative thinking**
+
+Keeping with the innovation initiatives set by the Air Force, the 6th Contracting Squadron at MacDill Air Force Base hosted its second pitch day event Jan. 22, in Tampa, Florida.
+
+[https://www.macdill.af.mil/News/Article/2065416/fast-money-macdill-awards-small-businesses-for-innovative-thinking/](https://www.macdill.af.mil/News/Article/2065416/fast-money-macdill-awards-small-businesses-for-innovative-thinking/)
