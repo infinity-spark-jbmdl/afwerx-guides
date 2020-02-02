@@ -33,19 +33,18 @@ Partner with your contracting office. Take your problem statement and mission de
 *   Legal
 *   Public Affairs
 
-## Supporting Documentation (need links)
+## Supporting Documentation
 
-* CSO Talking Paper
 * [Problem Statement Example - JBMDL 87th Air Base Wing](#example-area-of-interest)
-* CSO Policy Memo 18-C-03
-* Approval of Unusual Contract Financing for CSOs
-* AFPD 1-Page Contract Deviation
 
 ## Resources
 
 * Link to CSO example solicitation: [Air Force Operational Commercial Solutions Opening Announcement](https://beta.sam.gov/opp/b974b476568f408999364c5ceb60ba58/view)
 
 * [Air Force Contracting CSO Knowledge Base (CAC required)](https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Pages/cso.aspx)
+    * SAF/AQC CSO Policy Memo 18-C-03
+    * Air Force Approval of Unusual Contract Financing for CSOs
+    * AFPD 1-Page Contract Deviation
 
 ## News Media
 
