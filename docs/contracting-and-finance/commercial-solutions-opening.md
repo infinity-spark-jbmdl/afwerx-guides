@@ -41,6 +41,8 @@ Partner with your contracting office. Take your problem statement and mission de
 
 * Link to CSO example solicitation: [Air Force Operational Commercial Solutions Opening Announcement](https://beta.sam.gov/opp/b974b476568f408999364c5ceb60ba58/view)
 
+* [Defense Commercial Solutions Opening Pilot Program Policy](https://www.acq.osd.mil/dpap/policy/policyvault/USA001228-18-DPAP.pdf)
+
 * [Air Force Contracting CSO Knowledge Base (CAC required)](https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Pages/cso.aspx)
     * SAF/AQC CSO Policy Memo 18-C-03
     * Air Force Approval of Unusual Contract Financing for CSOs
